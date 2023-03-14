@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Manuel1407/Operationalizing-Microservices-Using-Docker-and-Kubernetes/tree/Main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Manuel1407/Operationalizing-Microservices-Using-Docker-and-Kubernetes/tree/Main)
 
 ## Project Overview
 
